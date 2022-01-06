@@ -46,12 +46,14 @@ main{
 }
 
 #div-content1{
+    margin-left: 100px;
     display: flex;
     flex-direction: column;
-    gap: 32px;
+    gap: 15px;
 }
 
 #content1-h1{
+    margin-top: 100px;
     font-family: 'Righteous', cursive;
     font-weight: 400;
     font-size: 64px;
@@ -65,8 +67,8 @@ main{
     color: #cac4ec;
 }
 
-#content1-img{
-    height: 430px;
+#content1-img{ 
+    margin-top: 100px;
 }
 
 #content1-button{
@@ -118,7 +120,7 @@ footer{
     border-top: 00.4px solid #cac4ec;
 }
 #footer-id{
-    height: 48px;
+    height: 70px;
     display: block;
     margin: 0 auto;
 }
