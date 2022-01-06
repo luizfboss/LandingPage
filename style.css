@@ -10,7 +10,7 @@
 }
 body{
     font-size: 100%;
-    background: linear-gradient(68.15deg, #6d668a 16.62%, #8280dd 85.61%);
+    background: linear-gradient(68.15deg, #8280dd 25%, #0099ff 75%);
 }
 
 header{
@@ -64,7 +64,7 @@ main{
     font-family: 'Sarala', sans-serif;
     font-weight: 400;
     font-size: 24px;
-    color: #cac4ec;
+    color: #cdcfda;
 }
 
 #content1-img{ 
@@ -72,7 +72,7 @@ main{
 }
 
 #content1-button{
-    background-color: #c7c4ec;
+    background-color:#cdcfda;
     width: 180px;
     height: 60px;
     border: none;
@@ -84,8 +84,7 @@ main{
     color: #2F2325;
 }
 #content1-button:hover{
-    background-color:#a297e4;
-    ;
+    background-color:#8284f7;
 }
 
 
@@ -99,7 +98,7 @@ main{
 }
 
 #content2-h3{
-    border-top: 0.4px solid #cac4ec;
+    border-top: 0.4px solid #cdcfda;
     padding-top: 48px;
     font-family: 'Righteous', cursive;
     font-weight: 400;
@@ -112,7 +111,7 @@ main{
     font-family: 'Sarala', sans-serif;
     font-weight: 300;
     font-size: 18px;
-    color: #cac4ec;
+    color: #dfe0e7;
 }
 
 footer{
